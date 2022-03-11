@@ -11,9 +11,7 @@ namespace homework0311
             product.Name = "Qelem";
             product.BrandName = "Yazi yazmaq ucun";
             product.Price=20;
-
-        }
-        
+        } 
     }
     class Product
     {
@@ -22,10 +20,6 @@ namespace homework0311
         public int Price;
     }
 }
-
-
-
----
 namespace homework2
 {
     class Program
